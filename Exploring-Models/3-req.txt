@@ -1,0 +1,6 @@
+streamlit : UI
+google-generativeai : Using Gemini Model
+python-dotenv : Use to store API
+langchain : LLM
+PyPDF2 : Upload pdf 
+chromadb : Vector DB
